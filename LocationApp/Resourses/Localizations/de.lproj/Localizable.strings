@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  LocationApp
+
+  Created by Valeryia Beizer on 7/15/20.
+  Copyright © 2020 Valeryia Beizer. All rights reserved.
+*/
+
+"Map" = "Karte";
+"MapWithValue" = "Karte %@ %@ %@";
+
+"List" = "Liste";
+"ListWithValue" = "Liste %@";
+
+"Settings" = "Einstellungen";
+"SettingsWithValue" = "Einstellungen %@";
+
+"Button" = "Drücken Sie die Taste und gehen Sie zu den Einstellungen";
+"ButtonWithValue" = "Drücken Sie die Taste und gehen Sie zu den Einstellungen %@";
